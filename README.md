@@ -41,6 +41,7 @@ Please refer to the LocalStack repository for available configuration options. D
 
 ## Change Log
 
+* `v0.1.2`: Adds customizable localstack endpoint
 * `v0.1.1`: Initialize default region to avoid boto client issues
 * `v0.1.0`: Initial release of `chalice-local`
 
